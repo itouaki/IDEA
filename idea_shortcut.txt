@@ -1,0 +1,98 @@
+	Ctrl + E				最近打开文件列表
+	Alt  + Q				当前方法上下文信息描述
+	Alt  + ↑↓				方法之间的快捷移动
+	
+	未来可能会常用的功能预留
+	右键 local history 可查看历史 也可给当前版本添加标签便于查找
+	
+	
+	
+	If the cursor is between the parentheses of a method call, 
+	pressing Ctrl+P brings up a list of valid parameters.
+	-如果光标在方法调用的括号中，Ctrl+P 带出有效参数列表
+	
+	Ctrl+Shift+Backspace (Navigate | Last Edit Location) brings you back to the last place
+	where you made changes in the code.
+	-Ctrl+Shift+Backspace带你回到最近修改代码的位置
+	Pressing Ctrl+Shift+Backspace a few times moves you deeper into your changes history
+	-按住Ctrl+Shift+Backspace一段时间带你进入更改历史
+
+	To see your local history of changes in a file, invoke Local History | Show History from the context menu.
+	-在快捷菜单调用Local History或者Show History可以看到对文件修改的本地历史
+	You can navigate through different file versions, 
+	-你可以浏览不同版本的文件
+	see the differences and roll back to any previous version.
+	-查看不同并且回滚到任何过去的版本
+	Use the same context menu item to see the history of changes on a directory. 
+	-使用相同的快捷菜单项目查看同一目录的修改历史
+	You will never lose any code with this feature!
+	-通过这一特性你将再也不会丢失任何代码
+	
+	Press Alt+Q (View | Context Info) to see the declaration of the current method 
+	without the need to scroll to it.
+	-按Alt+Q(视图|上下文信息)可以看到当前方法的声明并且不需要滚动
+	
+	Use F2/Shift+F2 keys to jump between highlighted syntax errors.
+	-使用F2/Shift+F2实现高亮语法错误的跳转
+	Use Ctrl+Alt+向上箭头/Ctrl+Alt+向下箭头 shortcuts to jump between compiler error messages or search operation results.
+	-使用Ctrl+Alt+向上箭头/Ctrl+Alt+向下箭头实现编译错误信息和搜索操作结果的跳转
+	To skip warnings right click on the validation side bar / marker bar and choose Go to high priority problems only.
+	
+	Use Ctrl+J to complete any valid Live Template abbreviation if you don't remember it. 
+	-使用Ctrl+J完成任何有效现场模板缩写如果你不记得它
+	For example, type it and press Ctrl+J to see what happens.
+	
+	To show separator lines between methods in the editor, 
+	-为了在编辑器中显示方法之间的分割线
+	open the editor settings and select the Show method separators check box in the Appearance page.
+	-在设置外表页中选中show method选择框
+	
+	When using basic code completion (Ctrl+空格), type any characters that exist anywhere in an identifier.
+	-当使用基本代码完成(Ctrl +空格),输入任何一个存在于标识符的字符即可。
+	
+	Use Alt+向上箭头 and Alt+向下箭头 keys to quickly move between methods in the editor.
+	-使用Alt+向上箭头|向下箭头 来进行方法之间的快捷移动
+	
+	Ctrl+Shift+J shortcut joins two lines into one and removes unnecessary space to match your code style.
+	-Ctrl+Shift+J 两行变一行并移除不必要的空间来适应你的代码
+	
+	Use Refactor | Copy to create a class which is a copy of the selected class. 
+	-使用Refactor | Copy来创建一个被选择类的副本
+	This can be useful, for example, 
+	when you need to create a class which has much in common with some existing class 
+	-当你需要创建一个与现存的类有很多相同之处的类时
+	and it's not feasible to put the shared functionality in a common superclass.
+	-并且在同一父类中放入共享功能是不可行的
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

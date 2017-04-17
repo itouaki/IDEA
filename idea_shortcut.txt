@@ -1,6 +1,8 @@
 	Ctrl + E				最近打开文件列表
 	Alt  + Q				当前方法上下文信息描述
 	Alt  + ↑↓				方法之间的快捷移动
+	Ctrl + X 				删除一行
+	Ctrl + Alt + B			实现方法
 	
 	未来可能会常用的功能预留
 	右键 local history 可查看历史 也可给当前版本添加标签便于查找
@@ -64,19 +66,39 @@
 	and it's not feasible to put the shared functionality in a common superclass.
 	-并且在同一父类中放入共享功能是不可行的
 	
+	Right-clicking on a breakpoint marker (on the bar to the left from the text) 
+	-右击断点标记（从文本左边的栏）
+	invokes the speedmenu where you can quickly enable/disable the breakpoint or adjust its properties.
+	-调用可以快速启用/禁用断点或者调试其功能的speedmenu
 	
+	To easily evaluate the value of any expression while debugging the program, 
+	-在调试程序时，要方便地评估任何表达式的值
+	select its text in the editor (you may press a Ctrl+W a few times to efficiently perform this operation) and press Alt+F8.
+	-请在编辑器中选择其文本（您可以按Ctrl + W几次，以有效地执行此操作）,并按Alt + F8
 	
+	To quickly evaluate the value of any expression while debugging the program, 
+	-当调试bug时,为了快速评估任何表达式的值
+	hold Alt and click this expression to see its value and calculate it, call a method, etc.
+	-按住Alt点击表达式来查看它计算后返回来的值
 	
+	Use Basic Completion (Ctrl+空格) for completing words in text and comments in files of many different types.
+	-使用(Ctrl+空格)来补全单词和在不同类型的文件下评论
+	All the words from the current file that start with the typed prefix will appear in the lookup list.
+	-在类型化前缀开始的当前文件中,所有单词将出现在“查找”列表中
 	
+	The shortcuts such as Ctrl+Q (View | Quick Documentation), Ctrl+P (View | Parameter Info), 
+	-快捷键Ctrl+Q(视图|快速查找文件),Ctrl+P(视图|参数信息)
+	Ctrl+B (Navigate | Declaration) and others can be used not only in the editor
+	-Ctrl+B(导航|介绍)和其他都不仅可用于编辑器
+	but in the code completion popup list as well.
+	-也可以在弹出框列表下用于代码的自动补全
 	
-	
-	
-	
-	
-	
-	
-	
-	
+	When using Code Completion, you can accept the currently highlighted selection in the popup list with the period character (.), 
+	-使用代码补全时,你可以在弹出列表中接受当前高亮显示的选择,通过句号
+	comma (,), semicolon (;), space and other characters.
+	-逗号,分号,空格和其他字符.
+	The selected name is automatically entered in the editor followed by the entered character.
+	-在编辑器输入字符的后面自动输入选定的名称
 	
 	
 	

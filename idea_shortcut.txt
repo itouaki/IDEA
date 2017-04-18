@@ -1,8 +1,9 @@
-	Ctrl + E				最近打开文件列表
-	Alt  + Q				当前方法上下文信息描述
-	Alt  + ↑↓				方法之间的快捷移动
-	Ctrl + X 				删除一行
-	Ctrl + Alt + B			实现方法
+	Ctrl + E					最近打开文件列表
+	Alt  + Q					当前方法上下文信息描述
+	Alt  + ↑↓					方法之间的快捷移动
+	Ctrl + X 					删除一行
+	Ctrl + Alt + B				实现方法
+	Ctrl + Alt + Shift + N  	找方法|属性
 	
 	未来可能会常用的功能预留
 	右键 local history 可查看历史 也可给当前版本添加标签便于查找
@@ -100,11 +101,19 @@
 	The selected name is automatically entered in the editor followed by the entered character.
 	-在编辑器输入字符的后面自动输入选定的名称
 	
+	To help you learn the purpose of each item in the main menu,
+	-为了帮助您了解主菜单中每个项的用途
+	its short description is shown in the status bar at the bottom of the application frame
+	-它简要说明将显示在应用程序框架底部的状态栏中
+	when you position the mouse pointer over this item.
+	-当你把鼠标指针置于该项时
 	
-	
-	
-	
-	
+	To open any particular method or field in the editor quickly, 
+	-为了快速在编辑器中打开一个方法或者属性
+	press Ctrl+Alt+Shift+N (Navigate | Symbol) and start typing its name.
+	-按Ctrl+Alt+Shift+N (导航|符号)然后键入它的名字
+	Choose symbol from the drop-down list that appears.
+	-从下拉列表中选择你需要的
 	
 	
 	

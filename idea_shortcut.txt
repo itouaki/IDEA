@@ -4,6 +4,9 @@
 	Ctrl + X 						删除一行
 	Ctrl + Alt + B					实现方法
 	Ctrl + Alt + Shift + N  		找方法|属性
+	Ctrl + I 						实现方法编写
+	Alt  + Shift + C				查看最近修改
+	Alt  + Insert					set/get快速实现
 	
 	未来可能会常用的功能预留
 	右键 local history 可查看历史 也可给当前版本添加标签便于查找
@@ -115,8 +118,19 @@
 	Choose symbol from the drop-down list that appears.
 	-从下拉列表中选择你需要的
 	
+	Use Alt+Shift+C to quickly review your recent changes to the project.
+	-使用Alt+Shift+C来快速回顾你最近对项目的修改
 	
 	
+	You can start referring to an Ant property or target even if it is not defined yet. 
+	-你可以引用Ant的属性或目标,即使它尚未定义
+	An intention action feature will suggest you to automatically create the necessary tag,
+	-意向操作功能建议你自动创建必要的标签
+	without the need for you to leave your current editing location.
+	-而不需要你离开当前的编辑位置
+	
+	
+ 
 	
 	
 	

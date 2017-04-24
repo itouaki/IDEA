@@ -129,8 +129,10 @@
 	without the need for you to leave your current editing location.
 	-而不需要你离开当前的编辑位置
 	
-	
- 
+	Use Ctrl+Shift+Enter to complete a current statement such as if, do-while, try-catch, return (or a method call) 
+	-使用Ctrl+Shift+Enter完成当前陈述就像if, do-while, try-catch, return 或者方法调用
+	into a syntactically correct construct 
+	-为了正确的构建语法
 	
 	
 	

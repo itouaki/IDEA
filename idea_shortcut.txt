@@ -1,10 +1,10 @@
 	Ctrl + E						最近打开文件列表
 	Alt  + Q						当前方法上下文信息描述
 	Alt  + ↑↓						方法之间的快捷移动
-	Ctrl + X 						删除一行
+	Ctrl + X						删除一行
 	Ctrl + Alt + B					实现方法
-	Ctrl + Alt + Shift + N  		找方法|属性
-	Ctrl + I 						实现方法编写
+	Ctrl + Alt + Shift + N			找方法|属性
+	Ctrl + I						实现方法编写
 	Alt  + Shift + C				查看最近修改
 	Alt  + Insert					set/get快速实现
 	
@@ -134,12 +134,19 @@
 	into a syntactically correct construct 
 	-为了正确的构建语法
 	
+	When in the Go to Class, Go to Symbol, or Go to File popup, 
+	-在查找类，符号或者文件时
+	you can ease the search by filtering the lookup list with the help of the "camel words" prefixes.
+	-你可以用"驼峰单词"的前缀来轻松的进行筛选
 	
+	Use Ctrl+Shift+I (View | Quick Definition), to quickly review definition or content of the symbol at caret,
+	-使用Ctrl+Shift+I(视图|快速释义)来在caret中快速检查定义和符号的内容
+	without the need to open it in a new editor tab.
+	-不需要在新的编辑器选项卡中打开它
 	
-	
-	
-	
-	
-	
+	You can use Basic Completion (Ctrl+空格) in HTML, CSS and JavaScript files, 
+	-你可以在HTML, CSS and JavaScript文件中红使用Ctrl+空格
+	for completing attributes, parameters, tags, selectors, etc.
+	-来补全属性、参数、标签、选择器等
 	
 	

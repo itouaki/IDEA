@@ -8,6 +8,8 @@
 	Alt  + Shift + C                查看最近修改
 	Alt  + Insert                   set/get快速实现
 	Ctrl + Shift + ↑↓               移动选中代码
+	Alt  + Shift + F10              运行/调试
+	Ctrl + Space					联想功能
 	
 	未来可能会常用的功能预留
 	右键 local history 可查看历史 也可给当前版本添加标签便于查找
@@ -149,5 +151,8 @@
 	for completing attributes, parameters, tags, selectors, etc.
 	-来补全属性、参数、标签、选择器等
 	
+	
+	By pressing Alt+Shift+F10 you can access the Run/Debug dropdown on the main toolbar, without the need to use your mouse.
+	-Alt+Shift+F10可以进入主工具栏下的运行/调试下拉列表,不需要动用你的鼠标
 	
 	

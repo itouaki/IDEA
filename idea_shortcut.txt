@@ -155,4 +155,44 @@
 	By pressing Alt+Shift+F10 you can access the Run/Debug dropdown on the main toolbar, without the need to use your mouse.
 	-Alt+Shift+F10可以进入主工具栏下的运行/调试下拉列表,不需要动用你的鼠标
 	
+	If you notice that IntelliJ IDEA works slowly, consider the possibility to reduce the number of folders under antivirus protection.
+	-如果你注意到IDEA工作缓慢,考虑在防病毒保护下减少文件夹数量的可能性
+	Each antivirus check in your project consumes resources. 
+	-项目中的每一项防病毒检查都消耗资源
+	You can significantly improve the performance, if you exclude certain folders from the antivirus protection.
+	-如果排除某些文件夹的防病毒检查,你能有效的提高性能
+	
+	You can quickly open a Maven project by selecting a pom.xml file in the File | Open dialog. 
+	-你能够快速打开一个Maven项目通过选择pom.xml文件或者打开对话框
+	The corresponding Maven project is imported with default settings, without launching the wizard.
+	-相应的Maven项目默认设置进口,没有启动向导
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	

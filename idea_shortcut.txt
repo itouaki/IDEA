@@ -10,6 +10,10 @@
 	Ctrl + Shift + ↑↓               移动选中代码
 	Alt  + Shift + F10              运行/调试
 	Ctrl + Space					联想功能
+	Ctrl + Alt + F7                 查看用到当前所选方法,类,属性的位置
+	Ctrl + Shift + A				快速查找工具栏下功能
+	
+	
 	
 	未来可能会常用的功能预留
 	右键 local history 可查看历史 也可给当前版本添加标签便于查找
@@ -167,20 +171,33 @@
 	The corresponding Maven project is imported with default settings, without launching the wizard.
 	-相应的Maven项目默认设置进口,没有启动向导
 	
+	If you don't want to commit some of your changes to the repository,
+	-如果你不想提交更改到库中
+	you can set them aside for a while, by moving to a separate changelist,
+	-你可以把它们先放到一边,通过移动到一个单独的变更
+	or by putting them to a shelf. Select such file in the Local tab of the Changes tool window, 
+	-或者把它们放到一个架子上.在选择工具窗口中的局部变化表等文件
+	and on the context menu choose Move to Another Changelist, or Shelve Changes
+	-并在上下文菜单中选择“移动到另一个更新，或搁置的变化
+
+	
+	You can quickly open an Eclipse project by selecting a .classpath or .project file in the File | Open dialog. 
+	-你可以快速打开一个Eclipse项目通过在文件|打开对话框中选择一个.classpath 或 .project文件
+	The corresponding Eclipse project is imported with default settings, without launching the wizard.
+	-相对应的Eclipse项目与默认设置被导入并且不需要启动向导
+	
+	You can bring forward the list of all usages of a class, method or variable across the whole project, and quickly jump to the selected usage.
+	-你能够提交整个项目中类,方法,变量的所用使用方法并且快速跳转到选定的用法
+	To do that, place the caret at the symbol's name or at its usage in code and press Ctrl+Alt+F7 (Edit | Find | Show Usages in the main menu), scroll the list and click the desired usage.
+	-如果想要做到这样的话,在代码中将caret放到符号的名字或它的用法上,按Ctrl+Alt+F7(编辑|查找|显示用法在主菜单),滑动列表选择你需要的用法
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	To quickly find a menu command or toolbar action, you do not need to look through the menus.
+	-为了快速查看菜单命令或者工具操作,不必要浏览菜单
+	Just press Ctrl+Shift+A (Help | Find Action on the main menu) and start typing the name of the action. 
+	-只需要按下Ctrl+Shift+A(帮助|查找操作在主菜单)并输入操作名称
+	Choose the desired action from the suggestion list.
+	-在推荐列表中选择你需要的操作
 	
 	
 	

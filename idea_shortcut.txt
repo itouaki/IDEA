@@ -12,7 +12,7 @@
 	Ctrl + Space                    联想功能
 	Ctrl + Alt + F7                 查看用到当前所选方法,类,属性的位置
 	Ctrl + Shift + A                快速查找工具栏下功能
-	
+	Ctrl + Shift + Enter            代码结构补齐
 	
 	
 	未来可能会常用的功能预留
@@ -198,6 +198,72 @@
 	-只需要按下Ctrl+Shift+A(帮助|查找操作在主菜单)并输入操作名称
 	Choose the desired action from the suggestion list.
 	-在推荐列表中选择你需要的操作
+	
+	
+	To quickly find and run an inspection, press Ctrl+Alt+Shift+I and start typing the name of the inspection or its group.
+	-要快速查找和运行检查,按下Ctrl+Alt+Shift+I并键入检查或其组的名称
+	Choose the desired inspection from the suggestion list and then specify the desired scope.
+	-从列表中选择所需的检查,然后选定所需的范围
+	
+	You can quickly find a setting you need in the Settings/Preferences dialog, without browsing through the numerous options. 
+	-你能够快速查找你需要的设置在设置/偏好对话框中,而不需要浏览众多选项
+	Just type some characters that, in your opinion, exist in the option description, and the list of settings will reduce to the matching ones.
+	-只需键入一些字符,在你看来,在选项中有了这些描述,会减少在列表中匹配到的设置
+	Select the desired entry, and see the setting that contains the entered characters highlighted:
+	-选择需要条目,看一下设置中是否包含键入的字符
+	
+	You can create code constructs using statement completion. Start typing a method declaration or a statement,
+	-你能够使用语句完成来创建代码结构.开始键入一个方法声明或陈述,
+	and press Ctrl+Shift+Enter after the opening parenthesis. The braces are created, with the caret placed inside:
+	-在大括号创建后按下Ctrl+Shift+Enter,光标插入里面后大括号就生成了
+	
+	You can view all methods of the implemented interfaces in a class, 
+	-你可以在一个类中查看所有实现了其他接口的方法
+	if you place the caret at the implements keyword in the class declaration,
+	-在类描述中将光标插入实现的关键字
+	press Ctrl+Shift+F7, and select the desired interface from the list:
+	-按下Ctrl+Shift+F7并在列表中选择你需要的接口
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	

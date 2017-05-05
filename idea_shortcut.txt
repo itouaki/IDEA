@@ -1,18 +1,21 @@
-	Ctrl + E                        最近打开文件列表
-	Alt  + Q                        当前方法上下文信息描述
-	Alt  + ↑↓                       方法之间的快捷移动
-	Ctrl + X                        删除一行
-	Ctrl + Alt + B                  实现方法
-	Ctrl + Alt + Shift + N          找方法|属性
-	Ctrl + I                        实现方法编写
-	Alt  + Shift + C                查看最近修改
-	Alt  + Insert                   set/get快速实现
-	Ctrl + Shift + ↑↓               移动选中代码
-	Alt  + Shift + F10              运行/调试
-	Ctrl + Space                    联想功能
-	Ctrl + Alt + F7                 查看用到当前所选方法,类,属性的位置
-	Ctrl + Shift + A                快速查找工具栏下功能
-	Ctrl + Shift + Enter            代码结构补齐
+	Ctrl  +  E                        最近打开文件列表
+	Ctrl  +  G                        跳转到某一行
+	Shift +  F9                       调试Debug
+	Alt   +  Q                        当前方法上下文信息描述
+	Alt   +  ↑↓                       方法之间的快捷移动
+	Ctrl  +  X                        删除一行
+	Ctrl  +  Alt + B                  实现方法
+	Ctrl  +  Alt + Shift + N          找方法|属性
+	Ctrl  +  I                        实现方法编写
+	Alt   +  Shift + C                查看最近修改
+	Alt   +  Insert                   set/get快速实现
+	Ctrl  +  Shift + ↑↓               移动选中代码
+	Alt   +  Shift + F10              运行/调试
+	Ctrl  +  Space                    联想功能
+	Ctrl  +  Alt   + F7               查看用到当前所选方法,类,属性的位置      ***
+	Ctrl  +  Shift + F7 			  查看所有状态类似的语句                  ***
+	Ctrl  +  Shift + A                快速查找工具栏下功能
+	Ctrl  +  Shift + Enter            代码结构补齐
 	
 	
 	未来可能会常用的功能预留
@@ -215,7 +218,7 @@
 	You can create code constructs using statement completion. Start typing a method declaration or a statement,
 	-你能够使用语句完成来创建代码结构.开始键入一个方法声明或陈述,
 	and press Ctrl+Shift+Enter after the opening parenthesis. The braces are created, with the caret placed inside:
-	-在大括号创建后按下Ctrl+Shift+Enter,光标插入里面后大括号就生成了
+	-在右括号后按下Ctrl+Shift+Enter,光标插入里面后大括号就生成了
 	
 	You can view all methods of the implemented interfaces in a class, 
 	-你可以在一个类中查看所有实现了其他接口的方法
@@ -224,11 +227,19 @@
 	press Ctrl+Shift+F7, and select the desired interface from the list:
 	-按下Ctrl+Shift+F7并在列表中选择你需要的接口
 	
+	To view all exit points of a method, place the caret at one of them, e.g. the return statement, and press Ctrl+Shift+F7
+	-要查看方法的所有退出点，请将插入符号放在其中一个，例如 返回语句，然后按Ctrl + Shift + F7
 	
-	
-	
-	
-	
+	You can view all statements within the method where certain exceptions can be caught.
+	-你能够查看方法中可以捕获某些异常的所有语句
+	Just place the caret at the throws keyword in a method declaration, press Ctrl+Shift+F7 and select the desired exception class from the list. 
+	-只需要在方法声明中将插入符号放在throws关键字上,按下Ctrl+Shift+F7,然后在列表中选择需要的异常类
+	This will also work for try and catch.
+	-这也可以用于try和catch语句
+	When you press Alt+Enter to invoke a quick fix or intention action, press the right arrow key to reveal the list of additional options.
+	-当你按下Alt+Enter来调用快速修复或意图动作,按右箭头来显示额外的选项列表
+	Depending on the context, you can choose to disable inspection, fix all problems, change inspection profile, etc.
+	-依靠上下文,你可以选择禁用检查,修复问题或修改检查配置
 	
 	
 	

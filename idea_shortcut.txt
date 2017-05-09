@@ -3,14 +3,15 @@
 	Shift +  F9                       调试Debug
 	Alt   +  Q                        当前方法上下文信息描述
 	Alt   +  ↑↓                       方法之间的快捷移动
+	Alt   +  Enter                    *
+	Alt   +  Shift + C                查看最近修改
+	Alt   +  Insert                   set/get快速实现
+	Alt   +  Shift + F10              运行/调试
 	Ctrl  +  X                        删除一行
 	Ctrl  +  Alt + B                  实现方法
 	Ctrl  +  Alt + Shift + N          找方法|属性
 	Ctrl  +  I                        实现方法编写
-	Alt   +  Shift + C                查看最近修改
-	Alt   +  Insert                   set/get快速实现
 	Ctrl  +  Shift + ↑↓               移动选中代码
-	Alt   +  Shift + F10              运行/调试
 	Ctrl  +  Space                    联想功能
 	Ctrl  +  Alt   + F7               查看用到当前所选方法,类,属性的位置      ***
 	Ctrl  +  Shift + F7 			  查看所有状态类似的语句                  ***
@@ -241,8 +242,10 @@
 	Depending on the context, you can choose to disable inspection, fix all problems, change inspection profile, etc.
 	-依靠上下文,你可以选择禁用检查,修复问题或修改检查配置
 	
-	
-	
+	IntelliJ IDEA helps create test cases directly from class declaration. 
+	-IntelliJ IDEA可以直接从类声明创建测试用例
+	With the caret at the class name in the editor, press Alt+Enter, and choose Create Test from the suggestion list:
+	- 使用编辑器中的类名称,按Alt + Enter,然后从建议列表中选择创建测试
 	
 	
 	

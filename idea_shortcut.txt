@@ -1,5 +1,6 @@
 	Ctrl  +  E                        最近打开文件列表
 	Ctrl  +  G                        跳转到某一行
+	Ctrl  +  D                        比较两个目录   复制一行
 	Shift +  F9                       调试Debug
 	Alt   +  1                        显示项目
 	Alt   +  Q                        当前方法上下文信息描述
@@ -252,10 +253,13 @@
 	You can easily open an external file for editing, if you just drag it from the Explorer or Finder to the editor.
 	-你可以通过从资源管理器或者Finder下拖拽一个外部文件到编辑器下进行编辑
 	
+	Version control annotations show the latest changes of each line in one click.
+	-版本控制注释在一次点击中显示每一行的最新更改
+	Just right-click an annotation and use the Show Diff command in the context menu.
+	-右击注释,然后再上下文菜单中使用"显示差异"命令
 	
-	
-	
-	
+	To compare two directories, select one or both of them in the Project view and press Ctrl+D.
+	-要比较两个目录,请在"项目"视图中选择一个或两个目录,然后按Ctrl+D
 	
 	
 	

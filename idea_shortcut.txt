@@ -1,6 +1,7 @@
 	Ctrl  +  E                        最近打开文件列表
 	Ctrl  +  G                        跳转到某一行
 	Ctrl  +  D                        比较两个目录   复制一行
+	Ctrl  +  K                        提交更改
 	Shift +  F9                       调试Debug
 	Alt   +  1                        显示项目
 	Alt   +  Q                        当前方法上下文信息描述

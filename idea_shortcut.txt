@@ -14,6 +14,7 @@
 	Ctrl  +  X                        删除一行
 	Ctrl  +  Alt + B                  实现方法
 	Ctrl  +  Alt + Shift + N          找方法|属性
+	Ctrl  +  Alt + Shift + T          重构列表
 	Ctrl  +  I                        实现方法编写
 	Ctrl  +  Shift + ↑↓               移动选中代码
 	Ctrl  +  Space                    联想功能
@@ -262,8 +263,10 @@
 	To compare two directories, select one or both of them in the Project view and press Ctrl+D.
 	-要比较两个目录,请在"项目"视图中选择一个或两个目录,然后按Ctrl+D
 	
-	
-	
+	If a method signature has been changed,
+	-如果方法签名已更改
+	IntelliJ IDEA highlights the tags that ran out of sync with the documentation comment and suggests a quick fix:
+	-IDEA将突出显示与文档注释不同步的标记,并建议快速修复
 	
 	
 	

@@ -269,9 +269,11 @@
 	-IDEA将突出显示与文档注释不同步的标记,并建议快速修复
 	
 	
+	You can drag an external file from the Explorer or Finder, and drop it onto the Favorites tool window.
+	-您可以从资源管理器或Finder拖动外部文件,并将其放在收藏夹工具窗口上
 	
-	
-	
+	Enable the horizontal scrolling with the mouse wheel by holding the Shift key.
+	-按住Shift键启用鼠标滚轮的水平滚动
 	
 	
 	

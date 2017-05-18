@@ -275,8 +275,12 @@
 	Enable the horizontal scrolling with the mouse wheel by holding the Shift key.
 	-按住Shift键启用鼠标滚轮的水平滚动
 	
-	
-	
+	Postfix code completion is applied "from right to left" and lets you avoid backward caret jumps when coding. 
+	-后缀代码完成从从右到左应用,并允许您在编码时避免向后插入符号跳转
+	After the code fragment that you want to change, type a dot (.)
+	-在要更改的代码片段之后,键入点（.）
+	optionally press Ctrl+J and select the desired option.
+	-可选择按Ctrl + J并选择所需的选项
 	
 	
 	

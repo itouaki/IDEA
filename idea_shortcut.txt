@@ -1,3 +1,6 @@
+IntelliJ IDEA	2017
+	
+	
 	Ctrl  +  E                        最近打开文件列表
 	Ctrl  +  G                        跳转到某一行
 	Ctrl  +  D                        比较两个目录   复制一行

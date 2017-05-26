@@ -1,34 +1,41 @@
 IntelliJ IDEA	2017
 	
 	
+	Ctrl  +  D                        比较两个目录   复制一行
 	Ctrl  +  E                        最近打开文件列表
 	Ctrl  +  G                        跳转到某一行
-	Ctrl  +  D                        比较两个目录   复制一行
+	Ctrl  +  I                        实现方法编写
 	Ctrl  +  K                        提交更改
-	Ctrl  +  Y                        删除光标所在行 或 删除选中的行 
+	Ctrl  +  Y                        删除光标所在行 或 删除选中的行
+    Ctrl  +  W                        范围扩展
+	Ctrl  +  X                        删除一行
+	Ctrl  +  F12                      全局预览
+	Ctrl  +  Tab                      切换
+	Ctrl  +  Space                    联想功能
+	
 	Shift +  F9                       调试Debug
 	Shift +  F6                       重构|重命名
+	
 	Alt   +  1                        显示项目
 	Alt   +  Q                        当前方法上下文信息描述
 	Alt   +  ↑↓                       方法之间的快捷移动
 	Alt   +  Enter                    *
-	Alt   +  Shift + C                查看最近修改
 	Alt   +  Insert                   set/get快速实现
+	Alt   +  Shift + C                查看最近修改
 	Alt   +  Shift + F10              运行/调试
-	Ctrl  +  F12                      全局预览
-	Ctrl  +  Tab                      切换
-	Ctrl  +  X                        删除一行
+	
+
+	Ctrl  +  Alt + B                  实现方法
 	Ctrl  +  Alt + T                  结构语句添加                            记
 	Ctrl  +  Alt + F7                 查看用到当前所选方法,类,属性的位置      ***
-	Ctrl  +  Alt + B                  实现方法
 	Ctrl  +  Alt + Shift + N          找方法|属性
 	Ctrl  +  Alt + Shift + T          重构列表
-	Ctrl  +  I                        实现方法编写
-	Ctrl  +  Shift + ↑↓               移动选中代码
-	Ctrl  +  Space                    联想功能
-	Ctrl  +  Shift + F7 			  查看所有状态类似的语句                  ***
+
 	Ctrl  +  Shift + A                快速查找工具栏下功能
+	Ctrl  +  Shift + F7 			  查看所有状态类似的语句                  ***
+	Ctrl  +  Shift + ↑↓               移动选中代码
 	Ctrl  +  Shift + Enter            代码结构补齐
+    Ctrl  +  Shift + Backspace        最近编辑处
 	
 	
 	未来可能会常用的功能预留

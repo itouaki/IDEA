@@ -28,6 +28,7 @@ IntelliJ IDEA	2017
 	Ctrl  +  Alt + B                  实现方法
 	Ctrl  +  Alt + T                  结构语句添加                            记
 	Ctrl  +  Alt + F7                 查看用到当前所选方法,类,属性的位置      ***
+	Ctrl  +  Alt + ↑↓                 错误信息跳转
 	Ctrl  +  Alt + Shift + N          找方法|属性
 	Ctrl  +  Alt + Shift + T          重构列表
 

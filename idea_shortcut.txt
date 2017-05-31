@@ -4,6 +4,7 @@ IntelliJ IDEA	2017
 	Ctrl  +  D                        比较两个目录   复制一行
 	Ctrl  +  E                        最近打开文件列表
 	Ctrl  +  G                        跳转到某一行
+	Ctrl  +  H                        继承关系
 	Ctrl  +  I                        实现方法编写
 	Ctrl  +  K                        提交更改
 	Ctrl  +  Y                        删除光标所在行 或 删除选中的行
@@ -15,7 +16,6 @@ IntelliJ IDEA	2017
 	
 	Shift +  F9                       调试Debug
 	Shift +  F6                       重构|重命名
-	  
 	  
 	Alt   +  1                        显示项目
 	Alt   +  Q                        当前方法上下文信息描述

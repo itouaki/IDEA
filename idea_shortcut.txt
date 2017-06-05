@@ -22,8 +22,8 @@ IntelliJ IDEA	2017
 	Alt   +  ↑↓                       方法之间的快捷移动
 	Alt   +  Enter                    *
 	Alt   +  Insert                   set/get快速实现
-	Alt   +  Shift + C                查看最近修改
-	Alt   +  Shift + F10              运行/调试
+	Alt   +  Shift + C                对文件结构的修改记录
+	Alt   +  Shift + F10              运行/调试选择框                        常用!
 	
 
 	Ctrl  +  Alt + B                  实现方法

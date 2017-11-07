@@ -8,7 +8,7 @@ IntelliJ IDEA	2017
 	Ctrl  +  I                        实现方法编写
 	Ctrl  +  K                        提交更改
 	Ctrl  +  Y                        删除光标所在行 或 删除选中的行
-    Ctrl  +  W                        范围扩展
+	Ctrl  +  W                        范围扩展
 	Ctrl  +  X                        删除一行
 	Ctrl  +  F12                      全局预览
 	Ctrl  +  Tab                      切换
@@ -34,10 +34,10 @@ IntelliJ IDEA	2017
 	Ctrl  +  Alt + Shift + T          重构列表
 
 	Ctrl  +  Shift + A                快速查找工具栏下功能
-	Ctrl  +  Shift + F7 			  查看所有状态类似的语句                  ***
+	Ctrl  +  Shift + F7               查看所有状态类似的语句                  ***
 	Ctrl  +  Shift + ↑↓               移动选中代码
 	Ctrl  +  Shift + Enter            代码结构补齐
-    Ctrl  +  Shift + Backspace        最近编辑处
+	Ctrl  +  Shift + Backspace        最近编辑处
 	
 	
 	未来可能会常用的功能预留
